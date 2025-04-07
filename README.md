@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFAB&center=true&vCenter=true&width=435&lines=Hi+there+👋;I'm+Bruno+Lopes;Engineering+Student+%F0%9F%9A%80;Aspiring+Software+Engineer;Always+learning+and+building!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFAB&center=true&vCenter=true&width=435&lines=Practice,+but+never+preach;I'm+Bruno+Lopes;Engineering+Student+%F0%9F%9A%80;Aspiring+Software+Engineer;Always+learning+and+building!" />
 </div>
 
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Studying **Software Engineering** @ Home Office University
-- 🧠 Currently learning **Java, Python, MySQL, MongoDB** and **Unreal Engine**
-- 🚀 Passionate about games, backend systems, and cloud technologies
-- 📈 On a mission to grow and become a full-stack developer
+- 🎓 Studying **Software Engineering** @ Home Office University  
+- 🧠 Currently learning **Java, Python, MySQL, MongoDB**, and **Unreal Engine**  
+- 🚀 Passionate about **game development**, **backend systems**, and **cloud technologies**  
+- 📈 On a mission to grow and become a **full-stack developer**
 
 ---
 
@@ -22,17 +22,18 @@
 ---
 
 ### 📈 GitHub Stats
-![Bruno GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical)
+![Bruno GitHub Stats](https://github-readme-stats.vercel.app/api?username=0liveiraDev&show_icons=true&theme=radical)
 
 ---
 
-### ✨ Goals for 2025
-- ✅ Dominar lógica de programação e POO
-- 🚀 Criar um projeto de jogo 2D com Unreal Engine
-- ☁️ Aprender fundamentos de Cloud Computing
-- 👥 Contribuir com pelo menos 1 projeto open source
+### ✨ 2025 Goals
+- ✅ Master **programming logic** and **object-oriented programming (OOP)**
+- 🎮 Build a **2D game project** using **Unreal Engine**
+- ☁️ Learn the **fundamentals of Cloud Computing**
+- 👥 Contribute to at least **1 open source project**
 
 ---
 
 ### 📫 Let’s Connect!
-[LinkedIn](https://linkedin.com/in/seu-usuario) • [GitHub](https://github.com/seu-usuario)
+[LinkedIn](https://www.linkedin.com/in/brunol-opes/) • [GitHub](https://github.com/0liveiraDev)  
+📧 Email: **Brunooliveira1010@hotmail.com**
