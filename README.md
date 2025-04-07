@@ -5,7 +5,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Studying **Software Engineering** @ Home Office University  
+- 🎓 Studying **Software Engineering** @JalaUniversity  
 - 🧠 Currently learning **Java, Python, MySQL, MongoDB**, and **Unreal Engine**  
 - 🚀 Passionate about **game development**, **backend systems**, and **cloud technologies**  
 - 📈 On a mission to grow and become a **full-stack developer**
