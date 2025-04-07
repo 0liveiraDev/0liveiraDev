@@ -5,9 +5,11 @@
 ---
 
 ### 👨‍💻 About Me
-- 🧠 Currently learning **Java, Python, MySQL, MongoDB**, and **Unreal Engine**  
-- 🚀 Passionate about **game development**, **backend systems**, and **cloud technologies**  
-- 📈 On a mission to grow and become a **full-stack developer**
+- 🎓 Software Engineering student (home-office)
+- 🧠 Currently learning **Java, Python, MySQL, MongoDB**, and **Unreal Engine**
+- 🚀 Passionate about **game development**, **backend systems**, and **cloud technologies**
+- 🛠️ Always building, always evolving
+- 📈 On a mission to become a **full-stack developer**
 
 ---
 
@@ -22,17 +24,20 @@
 
 ### 📈 GitHub Stats
 ![Bruno GitHub Stats](https://github-readme-stats.vercel.app/api?username=0liveiraDev&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=0liveiraDev&theme=radical&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0liveiraDev&layout=compact&theme=radical)
 
 ---
 
-### ✨ 2025 Goals
-- ✅ Master **programming logic** and **object-oriented programming (OOP)**
-- 🎮 Build a **2D game project** using **Unreal Engine**
-- ☁️ Learn the **fundamentals of Cloud Computing**
-- 👥 Contribute to at least **1 open source project**
+### 🎯 2025 Goals
+- 🧠 Master **programming logic** and **Object-Oriented Programming (OOP)**
+- 🎮 Create a **2D game** using **Unreal Engine**
+- ☁️ Dive into the **fundamentals of Cloud Computing**
+- 🤝 Contribute to **at least 1 open source project**
 
 ---
 
 ### 📫 Let’s Connect!
-[LinkedIn](https://www.linkedin.com/in/brunol-opes/) • [GitHub](https://github.com/0liveiraDev)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunol-opes/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/0liveiraDev)  
 📧 Email: **Brunooliveira1010@hotmail.com**
