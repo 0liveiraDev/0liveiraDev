@@ -6,7 +6,6 @@
 
 ### 👨‍💻 About Me
 - 🎓 Software Engineering student
-- 🧠 Currently learning **Java, Python, MySQL, MongoDB**, and **Unreal Engine**
 - 🚀 Passionate about **game development**, **backend systems**, and **cloud technologies**
 - 🛠️ Always building, always evolving
 - 📈 On a mission to become a **full-stack developer**
