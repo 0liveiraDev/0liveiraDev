@@ -1,50 +1,38 @@
-<h1 align="center">Fala aí! Eu sou o Bruno Lopes 👋</h1>
-
-<p align="center">
-  🧑‍💻 Estudante de Engenharia de Software <br>
-  🚀 Explorando o universo da programação e da tecnologia <br>
-  🎮 Apaixonado por games e desenvolvimento com Unreal Engine <br>
-</p>
-
 <div align="center">
-  <img src="https://media.giphy.com/media/1gJncXPYcU8XebxYpZ/giphy.gif" width="300"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFAB&center=true&vCenter=true&width=435&lines=Hi+there+👋;I'm+Bruno+Lopes;Engineering+Student+%F0%9F%9A%80;Aspiring+Software+Engineer;Always+learning+and+building!" />
 </div>
 
 ---
 
-### 💻 Tecnologias que estou estudando
-
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-black?style=flat-square&logo=unrealengine)
+### 👨‍💻 About Me
+- 🎓 Studying **Software Engineering** @ Home Office University
+- 🧠 Currently learning **Java, Python, MySQL, MongoDB** and **Unreal Engine**
+- 🚀 Passionate about games, backend systems, and cloud technologies
+- 📈 On a mission to grow and become a full-stack developer
 
 ---
 
-### 🎯 Em busca de conhecimento!
-
-> Estou começando minha jornada no mundo da programação e já explorando várias ferramentas incríveis. Sempre aprendendo, evoluindo e buscando desafios novos 💡
-
----
-
-### 🕸️ Vibe Miles Morales
-
-<p align="center">
-  <img src="https://media.giphy.com/media/cwTtbmUwzPqxK/giphy.gif" width="250" />
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" />
-</p>
+### 🧰 Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal-313131?style=flat&logo=unrealengine&logoColor=white)
 
 ---
 
-### 📫 Bora trocar uma ideia?
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
+### 📈 GitHub Stats
+![Bruno GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical)
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/kHMuN0p0YfJkMeN2F0/giphy.gif" width="300"/>
-</p>
+### ✨ Goals for 2025
+- ✅ Dominar lógica de programação e POO
+- 🚀 Criar um projeto de jogo 2D com Unreal Engine
+- ☁️ Aprender fundamentos de Cloud Computing
+- 👥 Contribuir com pelo menos 1 projeto open source
 
+---
+
+### 📫 Let’s Connect!
+[LinkedIn](https://linkedin.com/in/seu-usuario) • [GitHub](https://github.com/seu-usuario)
