@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFAB&center=true&vCenter=true&width=435&lines=Practice,+but+never+preach;I'm+Bruno+Lopes;Engineering+Student+%F0%9F%9A%80;Aspiring+Software+Engineer;Always+learning+and+building!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF4C4C&center=true&vCenter=true&width=435&lines=Practice,+but+never+preach;Software+Engineer" />
 </div>
 
 ---
